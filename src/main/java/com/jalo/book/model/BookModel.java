@@ -50,5 +50,4 @@ public class BookModel {
 	public void setSummary(String summary) {
 		this.summary = summary;
 	}
-
 }
